@@ -1,12 +1,12 @@
 ---
-title: Name
+title: 국민 신문고에 민원 넣기
 name: Name-3
-subtitle: Position
+subtitle: 민원을 넣어서 해결 시도
 layout: 2017_default
 modal-id: 1
-img: TBD.jpg
-thumbnail: TBD.jpg
+img: C.jpg
+thumbnail: C.jpg
 alt: Picture of TBD
-topic: Topic
-description: More Info
+topic: 민원 넣기
+description: 민원을 넣었으나 겨울에는 부실공사 위험으로 도로 정비 공사를 하지 않는다는 답변이 돌아왔다.
 ---

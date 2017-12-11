@@ -1,12 +1,12 @@
 ---
-title: Name
+title: 잘못 설치된 보도블록 찾기
 name: Name-1
-subtitle: Position
+subtitle: 시각장애인 보도블록 설치 매뉴얼을 기반으로
 layout: 2017_default
 modal-id: 1
-img: TBD.jpg
-thumbnail: TBD.jpg
-alt: Picture of TBD
-topic: Topic
-description: More Info
+img: A.jpg
+thumbnail: A.jpg
+alt: Picture of A
+topic: 잘못 설치된 보도 블록
+description: 경희대학교 주변에서 잘못 설치된 보도블록을 찾아보았다.
 ---
