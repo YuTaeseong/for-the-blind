@@ -1,0 +1,12 @@
+---
+title: 한국시각장애인복지관에 문의하기
+name: Name-2
+subtitle: 민원을 넣기 전 공신력있는 근거 수집을 위해
+layout: 2017_default
+modal-id: 1
+img: B.jpg
+thumbnail: B.jpg
+alt: Picture of TBD
+topic: 민원을 위한 근거 수집
+description: 한국시각장애인복지관에 우리가 찾은 자료가 올바른 것인지 문의
+---
