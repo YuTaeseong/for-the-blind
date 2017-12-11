@@ -1,8 +1,8 @@
-title: Your Title
+title: For The Blind
 description: > # this means to ignore newlines until "baseurl:"
-  Your description
+  This page for the blind
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "yutaeseong.github.io" # the base hostname & protocol for your site
+url: "forourblind.com" # the base hostname & protocol for your site
 # Build settings
 markdown: kramdown
 
